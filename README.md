@@ -1,5 +1,3 @@
-# Experiment
-
 # Psychology Experiment
 
 This is psychology experiment (Stroop) created as part of my master's degree.
