@@ -19,6 +19,6 @@ This repository contains the materials to run such a task. You'll find 3 files:
 * analyse_stroop - This is the analysis file. One the stroop task has been run for all participants, running this will provide some useful statistics.
 * labwiki - This provides detailed instructions on running the experiment and analysis.
 
-For a full set of instructions, please view this guide:
+For a full set of instructions, please view this [guide](labwiki.pdf).
 
-[a relative link](labwiki.pdf)
+
