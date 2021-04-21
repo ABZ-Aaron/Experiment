@@ -13,9 +13,9 @@ A Stroop Task is a psychology experiment used to measure one's selective attenti
 
 This repository contains the materials to run such a task. You'll find 3 files:
 
-* stroop - This is the main experiment file, which should be run through Psychopy
-* analyse_stroop - This is the analysis file. One the stroop task has been run for all participants, running this will provide some useful statistics.
-* labwiki - This provides detailed instructions on running the experiment and analysis.
+* [stroop](stroop.py) - This is the main experiment file, which should be run through Psychopy
+* [analyse_stroop](analyse_stroop.py) - This is the analysis file. One the stroop task has been run for all participants, running this will provide some useful statistics.
+* [labwiki](labwiki.pdf) - This provides detailed instructions on running the experiment and analysis.
 
 For a full set of instructions, please view this [guide](labwiki.pdf).
 
