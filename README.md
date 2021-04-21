@@ -25,6 +25,6 @@ This was one of the first Python projects I worked on with minimal tutorials or 
 
 As this was one of the first projects I worked on, the biggest barrier was getting to grips with basic python syntax and programming concepts, as well as those specific to PsychoPy. This required a few late nights in order for me to fully grasp these. Once I felt more confident with the basics, I was then able to complete the project with top marks.
 
-### What I enjoyed
+### What I enjoyed
 
 I think what I enjoyed most about this type of project was going beyond the set specifications, being a bit creative, and adding in new features (e.g. trial runs, parameter options). It was during these moments where I really began developing proficiency in Python (and in Googling things!). It was also exciting creating something which felt useful, and that could be released to a real psychology lab.
